@@ -1,0 +1,10 @@
+/*
+ * interface/usbh_msc_def.h
+ */
+
+#ifndef STM32F7_INTERFACE_USBH_MSC_DEF_H_
+#define STM32F7_INTERFACE_USBH_MSC_DEF_H_
+
+#define USBHMSC_INTERFACE_COUNT	1
+
+#endif /* STM32F7_INTERFACE_USBH_MSC_DEF_H_ */

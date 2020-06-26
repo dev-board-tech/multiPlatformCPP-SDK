@@ -1,0 +1,13 @@
+/*
+ * lib/gfx/item.cpp
+ */
+
+#include "item.h"
+
+GI::Screen::Gfx::Item::Item(s8* text, u32 location)
+{
+	memset(this, 0, sizeof(*this));
+
+}
+//#######################################################################################
+

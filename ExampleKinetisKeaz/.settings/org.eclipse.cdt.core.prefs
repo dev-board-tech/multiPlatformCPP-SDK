@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.722730592/PATH/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.722730592/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.722730592/PATH/value=C\:/Freescale/KDS_v3/eclipse/;C\:/Freescale/KDS_v3/Toolchain/bin;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.722730592/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.722730592/appendContributed=true

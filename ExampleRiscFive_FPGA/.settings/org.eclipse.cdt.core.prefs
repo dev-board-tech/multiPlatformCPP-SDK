@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.2116291671/PATH/delimiter=;
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.2116291671/PATH/operation=replace
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.2116291671/PATH/value=C\:\\GitHub\\_FreedomStudio\\build-tools\\bin;C\:\\GitHub\\_FreedomStudio\\SiFive\\toolchain\\riscv64-unknown-elf-gcc-8.2.0-2019.02.0\\bin;C\:/GitHub/_FreedomStudio/eclipse//../jre/bin/server;C\:/GitHub/_FreedomStudio/eclipse//../jre/bin;C\:/GitHub/_FreedomStudio/eclipse//../jre/lib/amd64;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\WINDOWS\\System32\\OpenSSH\\;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\Users\\MorgothCreator\\AppData\\Local\\Microsoft\\WindowsApps;;C\:\\GitHub\\_FreedomStudio
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.2116291671/TOOLCHAIN_PATH/delimiter=;
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.2116291671/TOOLCHAIN_PATH/operation=replace
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.2116291671/TOOLCHAIN_PATH/value=C\:\\GitHub\\_FreedomStudio\\SiFive\\toolchain\\riscv64-unknown-elf-gcc-8.2.0-2019.02.0\\bin
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.2116291671/append=true
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.2116291671/appendContributed=true
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1225914166/TOOLCHAIN/delimiter=;
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1225914166/TOOLCHAIN/operation=append
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1225914166/TOOLCHAIN/value=C\:\\GitHub\\_FreedomStudio\\SiFive\\riscv64-unknown-elf-gcc-8.1.0-2018.12.0-x86_64-w64-mingw32\\bin
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1225914166/TOOLCHAIN_PATH/delimiter=;
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1225914166/TOOLCHAIN_PATH/operation=append
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1225914166/TOOLCHAIN_PATH/value=C\:\\GitHub\\_FreedomStudio\\SiFive\\riscv64-unknown-elf-gcc-8.1.0-2018.12.0-x86_64-w64-mingw32\\bin
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1225914166/append=true
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1225914166/appendContributed=true
