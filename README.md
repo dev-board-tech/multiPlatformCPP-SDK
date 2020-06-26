@@ -462,6 +462,6 @@ int main(void)
 }
 ```
 
-More detalied example you can see <a href="https://morgothdisk.com:30001/MorgothCreator/MULTIPLATFORM-CPP-SDK/tree/master/Common">here</a>, it is a common application thet work on all platforms.
+More detalied example you can see <a href="https://github.com/dev-board-tech/multiPlatformCPP-SDK/tree/master/Common">here</a>, it is a common application thet work on all platforms.
 
 
